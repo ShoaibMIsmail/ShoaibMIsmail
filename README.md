@@ -52,7 +52,6 @@ I'm a passionate iOS Developer with **6+ years** of hands-on experience in devel
 
 ---
 
-### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shoaibismail&show_icons=true&theme=radical" alt="Shoaib's stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibismail&layout=compact&theme=radical" />
@@ -62,8 +61,6 @@ I'm a passionate iOS Developer with **6+ years** of hands-on experience in devel
 
 ### 📫 Let's Connect
 - 📧 Email: meetshoaibismail@gmail.com
-- 🌍 Portfolio: [Coming Soon]
-- 🐦 Twitter: [@shoaibismail](https://twitter.com/shoaibismail)
 - 💼 LinkedIn: [linkedin.com/in/shoaibismail200](https://linkedin.com/in/shoaibismail200)
 
 ---
